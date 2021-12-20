@@ -1,0 +1,6 @@
+>firebase login
+>firebase init
+>public directory : build
+
+>npm run build
+>firebase deploy
